@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/maregu-assefa-mara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maregu-assefa-mara/" height="30" width="40" /></a>
 </p>
 - 🔭 My research focuses on visual representation learning for video analysis problems, such as action recognition, video retrieval, and action localization.
--
 - 🌱 Currently, working on semi-supervised and self-supervised multi-modal feature learning for video and medical image understanding.
-- 
 - 👯 I’m looking to collaborate on Data-Driven Representation Learning for multimodal data processing.
 <!-- - 📫 Reach out to me via maregu2006@gmail.com -->
 <!-- - ⚡ Fun fact: ... -->
